@@ -11,7 +11,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/MargaritaKirilchuk/KeyValidator/issues/1
-* 
+* https://github.com/MargaritaKirilchuk/KeyValidator/issues/2
 
 ## Описание процесса тестирования
 
